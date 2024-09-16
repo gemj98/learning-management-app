@@ -1,7 +1,7 @@
-# CMPE 202 Gladiators Team Project
+# Learning Management Mobile App
 
 ## Introduction
-This is the repository containing the CMPE 202 team project from Team Gladiators. It entails an end2end learning management application similar to Canvas.
+The project entails an end2end learning management application similar to Canvas. This was the final assignment for the course CMPE 202 at San Jose State University.
 It is intended for three user groups:
 * Students
 * Faculty
